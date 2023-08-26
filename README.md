@@ -38,3 +38,4 @@ Step by step
 - Uot iz it? -> What is it
 - Its â baenk -> It´s a bank
 - Hau mâtch iz it ? 
+- Véri gud.
