@@ -28,3 +28,9 @@ Step by step
 - Practice makes perfect
 - Hélou!
 - Hau a:r iu: ?
+- Gud mórning(g,)boy
+- Veré uél thaenk iu:. Aend iu:?
+- Ou Kéi, thaenks.
+
+# Phrases:
+-
