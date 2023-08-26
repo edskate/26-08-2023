@@ -33,4 +33,8 @@ Step by step
 - Ou Kéi, thaenks.
 
 # Phrases:
--
+
+- Sou lóng(g)
+- Uot iz it? -> What is it
+- Its â baenk -> It´s a bank
+- Hau mâtch iz it ? 
