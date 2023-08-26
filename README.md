@@ -39,3 +39,7 @@ Step by step
 - Its â baenk -> It´s a bank
 - Hau mâtch iz it ? 
 - Véri gud.
+
+# part three
+
+- Uót Kântri a:r iu: fróm?
