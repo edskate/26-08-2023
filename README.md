@@ -42,4 +42,8 @@ Step by step
 
 # part three
 
-- Uót Kântri a:r iu: fróm?
+- Uót Kântri a:r iu: fróm? 
+- Á aem fróm kiubâ aend  mai uaif iz from  Spein.
+
+```questions 
+```
