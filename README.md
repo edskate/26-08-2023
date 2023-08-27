@@ -48,3 +48,10 @@ Step by step
 ```
 questions 
 ```
+# Updates
+
+- Ojetivo-> Goal
+- Goals -> Metas
+- Everyday repetitions ->repetições do dia a dia 
+- Updates -> atualizações.
+- 
