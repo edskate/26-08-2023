@@ -1,6 +1,6 @@
 # 26-08-2023
 
-# Atualização.
+# Atualização
 
 ```
 Passo A Passo
@@ -54,4 +54,7 @@ questions
 - Goals -> Metas
 - Everyday repetitions ->repetições do dia a dia 
 - Updates -> atualizações.
-- 
+
+#  practice for a fortnight -> praticas durante quinze dias.
+
+- study with practice in everyday life
